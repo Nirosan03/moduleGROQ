@@ -1,0 +1,5 @@
+groq
+httpx
+fastapi
+pydantic
+pytest
